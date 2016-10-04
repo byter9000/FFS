@@ -1,0 +1,18 @@
+body {
+	cursor: default;
+}
+
+.left_col {	
+	width: 150px;
+}
+
+.right_col {
+	width: 800px;
+}
+
+.mainDisplay {
+	position: absolute;
+	width: 750px;
+	height: 500px;
+	border: none;
+}

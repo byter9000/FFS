@@ -1,0 +1,114 @@
+body {
+	cursor: default;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    float: left;
+    border: 1px solid #000;
+    border-bottom-width: 0;
+    margin: 3px 3px 0px 3px;
+    padding: 5px 5px 0px 5px;
+    background-color: #CCC;
+    color: #696969;
+}
+
+.active {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+.tabDiv {
+	position: absolute;
+	top: 70px;
+	left: 7px;
+	border: 1px solid;
+	width: 600px;
+	height: 400px;
+}
+
+.inputDiv {
+	position: absolute;
+	top: 10px;
+	left: 5px;
+	width: 300px;
+}
+
+
+.outputDiv {
+	position: absolute;
+	left: 300px;
+	width: 300px
+}
+
+.rndTLDiv {
+	position: absolute;
+	top:5px;
+	left: 5px;
+}
+
+.rndTypeDiv {
+	position: absolute;
+	top: 35px;
+	left: 5px;
+}
+
+.caseTypeDiv {
+	position: absolute;
+	top: 65px;
+	left: 5px;
+}
+
+.diameterDiv {
+	position: absolute;
+	top: 95px;
+	left: 5px;
+}
+
+.lengthDiv {
+	position: absolute;
+	top: 125px;
+	left: 5px;
+}
+
+.rndETCDiv {
+	position: absolute;
+	top: 155px;
+	left: 5px;
+}
+
+
+.rndUpdateBtnDiv {
+	position: absolute;
+	top: 185px;
+	left: 35px;
+}
+
+.trueLenDiv {
+	position: absolute;
+	top: 5px;
+	left: 5px;
+}
+
+.rndWeigthDiv {
+	position: absolute;
+	top: 35px;
+	left: 5px;	
+}
+
+.rndMuzzleVelDiv {
+	position: absolute;
+	top: 65px;
+	left: 5px;
+}
+
+.rndPriceDiv {
+	position: absolute;
+	top: 95px;
+	left: 5px;
+}
