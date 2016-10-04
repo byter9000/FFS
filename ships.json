@@ -1,0 +1,72 @@
+records = '[
+	{
+		"Name"		:	"Ave Maria",
+		"Class"		:	"Empress Marva",
+		"Model"		:	"Far Trader",
+		"HullSize"	:	"200",
+		"Status"	: 	"In Progress"
+	},
+	{
+		"Name"		:	"INS Rhodes",
+		"Class"		:	"Lunshaar Kilaalum",
+		"Model"		:	"Patrol Cruiser",
+		"HullSize"	:	"400",
+		"Status"	: 	"Complete"
+	},
+	{
+		"Name"		:	"INS Register",
+		"Class"		:	"Gazelle",
+		"Model"		:	"Close Escort",
+		"HullSize"	:	"300",
+		"Status"	: 	"Complete"
+	},
+	{
+		"Name"		:	"Bangor",
+		"Class"		:	"Akkigish",
+		"Model"		:	"Subsidized Merchant",
+		"HullSize"	:	"400",
+		"Status"	: 	"Complete"
+	},
+	{
+		"Name"		:	"Grand Isle",
+		"Class"		:	"Lady of Shallot",
+		"Model"		:	"Yacht",
+		"HullSize"	:	"200",
+		"Status"	: 	"Complete"
+	},
+	{
+		"Name"		:	"Runner",
+		"Class"		:	"Beowulf",
+		"Model"		:	"Free Trader",
+		"HullSize"	:	"200",
+		"Status"	: 	"In Progress"
+	},
+	{
+		"Name"		:	"Far Seeker",
+		"Class"		:	"Suleiman",
+		"Model"		:	"Scout/Courier",
+		"HullSize"	:	"100",		
+		"Status"	: 	"Complete"
+	},
+	{
+		"Name"		:	"Grunt",
+		"Class"		: 	"Dragon",
+		"Model"		:	"System Defense Boat",		
+		"HullSize"	:	"400",
+		"Status"	: 	"Complete"
+	},
+	{
+		"Name"		:	"Magesty",
+		"Class"		:	"Kugashin",
+		"Model"		:	"Lab",
+		"HullSize"	:	"400",
+		"Status"	: 	"Complete"
+	},
+	{
+		"Name"		:	"Belle",
+		"Class"		:	"Nishemani",
+		"Model"		: 	"Corsair",
+		"HullSize"	:	"400",
+		"Status"	: 	"Complete"
+	}	
+]';
